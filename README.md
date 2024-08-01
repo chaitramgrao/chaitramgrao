@@ -38,5 +38,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitramg/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chaitramgrao/)
 [![Google Cloud Skill Boost](https://img.shields.io/badge/Google%20Cloud%20Skill%20Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/e83edb5b-38f5-4b4a-9183-79bbfd72a18f)
-[![Twitter][(https://shields.io/badges/x-formerly-twitter-url)](https://x.com/rao_chaitra_)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rao_chaitra_)
+
 
