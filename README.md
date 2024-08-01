@@ -7,8 +7,7 @@
 - 💬 Ask me about DSA, development, AI.
 - 📫 How to reach me: chaitraraomg@gmail.com
 - ⚡ Fun fact: I like reading novels and listening to poems
-- 
--->
+
 
 ## Languages and Technologies
 
